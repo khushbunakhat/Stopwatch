@@ -9,6 +9,6 @@ This stopwatch is used to measure the time interval of an event. It is a kind of
  CSS HTML Javascript
 
 # 3. Live Demo
-
+https://stopwatch-by-khushbu.netlify.app/
 
 # Image of app
